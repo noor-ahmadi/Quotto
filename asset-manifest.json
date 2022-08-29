@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quotto/static/css/main.daaf9bd3.css",
+    "main.js": "/Quotto/static/js/main.8bb8da77.js",
+    "static/media/Roboto-Thin.ttf": "/Quotto/static/media/Roboto-Thin.c38fab23fc1c36894f10.ttf",
+    "static/media/Roboto-Regular.ttf": "/Quotto/static/media/Roboto-Regular.03523cf578d69fa92322.ttf",
+    "index.html": "/Quotto/index.html",
+    "main.daaf9bd3.css.map": "/Quotto/static/css/main.daaf9bd3.css.map",
+    "main.8bb8da77.js.map": "/Quotto/static/js/main.8bb8da77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daaf9bd3.css",
+    "static/js/main.8bb8da77.js"
+  ]
+}
