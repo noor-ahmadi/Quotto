@@ -1,0 +1,23 @@
+.dropbtn {
+    background-color: rgb(220, 215, 201);
+    color: rgb(162, 123, 92);
+    padding: 16px;
+    font-size: 25px;
+    font-family: RobotoThin;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 15px;
+    cursor: pointer;
+    font: italic bold 30px/1.3em Georgia,Cambria,"Times New Roman",Times,serif;
+}
+
+.line {
+    margin-top: 50px;
+    content: "\n";
+    white-space: pre-wrap;
+    font: oblique normal 22px/1.5em Georgia,Cambria,"Times New Roman",Times,serif;
+    background: rgb(220, 215, 201);
+    border-radius: 30px;
+    display: inline-block;
+    padding: 20px 20px 30px;
+}
